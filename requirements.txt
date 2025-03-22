@@ -1,2 +1,6 @@
 
-    import matplotlib.pyplot as plt
+streamlit
+pandas
+matplotlib
+psycopg2-binary
+pymysql
